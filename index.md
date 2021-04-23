@@ -1,4 +1,4 @@
-![helix](https://helix-test.github.io/verification/helix.png)
+![gemotest](https://helix-test.github.io/result/gemotest.png)
 
 ### Verify your COVID-19 certificate
 
@@ -13,7 +13,7 @@ markdown
 Olga Puzevich
 
 ### Year of birth
-  28.05.1991
+28.05.1991
 
 Verification of the SARS-CoV-2 (COVID-19) test certificate
 *Result: negative*
