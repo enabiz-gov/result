@@ -2,7 +2,6 @@
 
 ### Verify your COVID-19 certificate
 
-markdown
 [Valid COVID-19 certificate]
 
 ### Date of sample collection
